@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quicktree-test-210637-authRole",
+      "UnauthRoleArn": "arn:aws:iam::872505412263:role/amplify-quicktree-test-210637-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::872505412263:role/amplify-quicktree-test-210637-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-quicktree-test-210637-deployment",
+      "UnauthRoleName": "amplify-quicktree-test-210637-unauthRole",
+      "StackName": "amplify-quicktree-test-210637",
+      "StackId": "arn:aws:cloudformation:us-west-2:872505412263:stack/amplify-quicktree-test-210637/bb33e880-baaa-11eb-a4eb-0afe8bd78119",
+      "AmplifyAppId": "d10207izvvq9th"
+    }
+  }
+}
