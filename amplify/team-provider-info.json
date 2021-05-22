@@ -1,0 +1,41 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quicktree-prod-210320-authRole",
+      "UnauthRoleArn": "arn:aws:iam::872505412263:role/amplify-quicktree-prod-210320-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::872505412263:role/amplify-quicktree-prod-210320-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-quicktree-prod-210320-deployment",
+      "UnauthRoleName": "amplify-quicktree-prod-210320-unauthRole",
+      "StackName": "amplify-quicktree-prod-210320",
+      "StackId": "arn:aws:cloudformation:us-west-2:872505412263:stack/amplify-quicktree-prod-210320/46b5fa70-baaa-11eb-8df5-0226a28ee521",
+      "AmplifyAppId": "d10207izvvq9th"
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quicktree-dev-210532-authRole",
+      "UnauthRoleArn": "arn:aws:iam::872505412263:role/amplify-quicktree-dev-210532-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::872505412263:role/amplify-quicktree-dev-210532-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-quicktree-dev-210532-deployment",
+      "UnauthRoleName": "amplify-quicktree-dev-210532-unauthRole",
+      "StackName": "amplify-quicktree-dev-210532",
+      "StackId": "arn:aws:cloudformation:us-west-2:872505412263:stack/amplify-quicktree-dev-210532/94856970-baaa-11eb-919a-0a8263fc426f",
+      "AmplifyAppId": "d10207izvvq9th"
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quicktree-test-210637-authRole",
+      "UnauthRoleArn": "arn:aws:iam::872505412263:role/amplify-quicktree-test-210637-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::872505412263:role/amplify-quicktree-test-210637-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-quicktree-test-210637-deployment",
+      "UnauthRoleName": "amplify-quicktree-test-210637-unauthRole",
+      "StackName": "amplify-quicktree-test-210637",
+      "StackId": "arn:aws:cloudformation:us-west-2:872505412263:stack/amplify-quicktree-test-210637/bb33e880-baaa-11eb-a4eb-0afe8bd78119",
+      "AmplifyAppId": "d10207izvvq9th"
+    }
+  }
+}
